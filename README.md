@@ -67,7 +67,4 @@ print(df[df['Sale Price'] == df['Sale Price'].min()])  # Least expensive
 📂 Files
 flipkart_iphones.csv: Raw dataset.
 
-iphone_price_analysis.ipynb: Jupyter Notebook with full analysis.
-
-📜 License
-MIT © 2023 [Alok Dwivedi]
+iphone_price_analysis.ipynb: Jupyter Notebook with full analysis
